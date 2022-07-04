@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@chandanaazure 
-shashirajraja
-/
-onlinebookstore
-Public
-Code
-Issues
-4
-Pull requests
-5
-Actions
-Projects
-Wiki
-Security
-Insights
-onlinebookstore/pom.xml
-@dependabot
-dependabot Bump postgresql from 42.2.25 to 42.3.3
-…
-Latest commit 35d289f on Feb 16
- History
- 3 contributors
-@dependabot@shashirajraja@ajay109458
-49 lines (44 sloc)  1.39 KB
-
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>onlinebookstore</groupId>
@@ -79,18 +47,3 @@ Latest commit 35d289f on Feb 16
   	</dependency>
   </dependencies>
 </project>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-You have no unread notifications
